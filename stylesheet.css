@@ -1,0 +1,15 @@
+body {
+    background-color: whitesmoke;
+}
+
+#one {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 50px;
+}
+#graph {
+    height: 500px;
+    margin: 300 auto;
+    margin-left: 50px;
+    margin-right: 50px;
+}
